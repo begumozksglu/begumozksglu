@@ -11,7 +11,7 @@ My name is Begüm and I've been a Data Scientist and programmer for about two ye
 I've always been a person that if I didn't know how to make something      🔎      I'd find out how to do it, so programming has been a perfect fit for me.
 
 
-🎓      I have a bachelor's degree on Econometrics 
+🎓      I have a bachelor's degree on Econometrics <br>
 🎓      I'm doing a master's degree in Econometrics
 
 💻      I work at Coşkunöz Metal Form as a Digital & IT Project Responsible 
