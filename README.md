@@ -3,7 +3,7 @@
   
 </div>
 
-Hi everyone!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br>
+Hi Everyone!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> <br>
 
 My name is Begüm and I've been a Data Scientist and programmer for about two year.
 
