@@ -12,7 +12,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 
 🎓      I have a bachelor's degree on Econometrics <br>
-🎓      I'm doing a master's degree in Econometrics
+🎓      I'm doing a master's degree on Econometrics
 
 💻      I work at Coşkunöz Metal Form as a Digital & IT Project Responsible 
 
@@ -30,5 +30,15 @@ I've always been a person that if I didn't know how to make something      🔎 
 [twitter]: https://twitter.com/begumozkisaoglu
 [gmail]: mailto:begumozkisaoglu@gmail.com
 [medium]: https://medium.com/@begumozkisaoglu
+
+<br> 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=begumozksglu&show_icons=true&theme=dark&locale=en&layout=compact" alt="begumozksglu" /></p>
+
+
+[![Begüm's GitHub stats](https://github-readme-stats.vercel.app/api?username=begumozksglu&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=begumozksglu&theme=dark" alt="begumozksglu" /></p>
   
 
