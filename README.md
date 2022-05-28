@@ -41,4 +41,4 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=begumozksglu&theme=dark" alt="begumozksglu" /></p>
   
-
+<br>
