@@ -5,7 +5,7 @@
 
 Hi Everyone! <br>
 
-My name is Begüm and I've been a Data Scientist and programmer for about 3 years.
+My name is Begüm and I've been a Data Scientist and programmer for about 4 years.
 
 
 I've always been a person that if I didn't know how to make something      🔎      I'd find out how to do it, so programming has been a perfect fit for me.
@@ -27,7 +27,6 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 
 [linkedin]: https://www.linkedin.com/in/beg%C3%BCm%C3%B6zkisao%C4%9Flu-962311182/
-[twitter]: https://twitter.com/begumozkisaoglu
 [gmail]: mailto:begumozkisaoglu@gmail.com
 [medium]: https://medium.com/@begumozkisaoglu
 
