@@ -32,7 +32,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 <br> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=begumozksglu&label=Profile%20views&color= 0e75b6&style=flat" alt="begumozksglu" /> </p>
+
 
 
 </p>
