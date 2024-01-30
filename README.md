@@ -19,7 +19,6 @@ I've always been a person that if I didn't know how to make something      🔎 
 <br>
 
 [<img align="left" alt="begumozkisaoglu | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="begumozkisaoglu | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="begumozkisaoglu | Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="begumozkisaoglu | Medium" width="22px" src="./medium.svg" />][medium]
 
