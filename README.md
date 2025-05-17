@@ -5,7 +5,7 @@
 
 Hi Everyone! <br>
 
-My name is Begüm and I've been a Data Scientist and programmer for about 5 years.
+My name is Begüm, I have been a Data Scientist and Business Intelligence Consultant for about 5 years.
 
 
 I've always been a person that if I didn't know how to make something      🔎      I'd find out how to do it, so programming has been a perfect fit for me.
