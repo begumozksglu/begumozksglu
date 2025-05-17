@@ -12,7 +12,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 
 🎓      I have a bachelor's degree on Econometrics <br>
-🎓      I'm doing a master's degree on Econometrics
+🎓      I'm doing a master's degree on Management Information Systems
 
 💻      I work at Coşkunöz Holding as a SAP Business Intelligence Responsible
 
